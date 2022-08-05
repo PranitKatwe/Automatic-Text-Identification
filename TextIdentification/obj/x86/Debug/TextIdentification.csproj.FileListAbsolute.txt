@@ -1,0 +1,46 @@
+E:\2018\TextIdentification\TextIdentification\bin\Debug\TextIdentification.exe
+E:\2018\TextIdentification\TextIdentification\bin\Debug\TextIdentification.pdb
+E:\2018\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Main.resources
+E:\2018\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Properties.Resources.resources
+E:\2018\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Training.resources
+E:\2018\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.csproj.GenerateResource.Cache
+E:\2018\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.exe
+E:\2018\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.pdb
+E:\2018\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.SelectLang.resources
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\bin\Debug\TextIdentification.exe
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\bin\Debug\TextIdentification.pdb
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Testing.resources
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Main.resources
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Properties.Resources.resources
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.SelectLang.resources
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Training.resources
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.csproj.GenerateResource.Cache
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.exe
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.pdb
+G:\2018\Eductional\Text Identification\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Setting.resources
+F:\Project\TextIdentification\TextIdentification\bin\Debug\TextIdentification.exe
+F:\Project\TextIdentification\TextIdentification\bin\Debug\TextIdentification.pdb
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.csprojResolveAssemblyReference.cache
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Setting.resources
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Testing.resources
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Main.resources
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Properties.Resources.resources
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.SelectLang.resources
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Training.resources
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.csproj.GenerateResource.Cache
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.csproj.CoreCompileInputs.cache
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.exe
+F:\Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.pdb
+D:\Final_Project\TextIdentification\TextIdentification\bin\Debug\TextIdentification.exe
+D:\Final_Project\TextIdentification\TextIdentification\bin\Debug\TextIdentification.pdb
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.csprojResolveAssemblyReference.cache
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Setting.resources
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Testing.resources
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Main.resources
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Properties.Resources.resources
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.SelectLang.resources
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.Training.resources
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.csproj.GenerateResource.Cache
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.csproj.CoreCompileInputs.cache
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.exe
+D:\Final_Project\TextIdentification\TextIdentification\obj\x86\Debug\TextIdentification.pdb
